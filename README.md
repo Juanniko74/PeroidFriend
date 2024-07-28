@@ -29,13 +29,13 @@ Aplikasi dibangun dengan menggunakan :
 
 ## Demo Project 
 - dashboard
-pada dashboard kita dapat memilih beberapa menu yang dapat digunakan seperti Add Data, Manage Data, Record Data
+  pada dashboard kita dapat memilih beberapa menu yang dapat digunakan seperti Add Data, Manage Data, Record Data
 - add data
-pada add data kita dapat melakukan pembuatan data mensturasi yang disimpan pada database yang di sediakan
+  pada add data kita dapat melakukan pembuatan data mensturasi yang disimpan pada database yang di sediakan
 - manage data
-pada manage data kita mendapatkan beberapa fitur yaitu seperti : melakukan perubahan data (update data), melihat keseluruhan data (read data), dan juga dapat menghapus suatu data (delete data)
+  pada manage data kita mendapatkan beberapa fitur yaitu seperti : melakukan perubahan data (update data), melihat keseluruhan data (read data), dan juga dapat menghapus suatu data (delete data)
 - record data
-pada record data kita dapat memmantau (tracking) siklus menstruasi setiap bulan secara berkala, pada record data ditambahkan sebuah logika yang otomatis akan terbuat untuk memberitahu user apakah siklus haid pada bulan pertama dan bulan kedua normal atau tidak normal
+  pada record data kita dapat memmantau (tracking) siklus menstruasi setiap bulan secara berkala, pada record data ditambahkan sebuah logika yang otomatis akan terbuat untuk memberitahu user apakah siklus haid pada bulan pertama dan bulan kedua normal atau      tidak normal
 
 
 
