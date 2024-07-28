@@ -29,8 +29,7 @@ Aplikasi dibangun dengan menggunakan :
 
 ## Demo Project 
 - dashboard
-  ![alt text](https://drive.google.com/file/d/15UbKaIHWDF4Kmw4mUOyDJqdWLnnvv9wZ/view?usp=sharing?raw=true)
-
+![alt text](https://drive.google.com/file/d/15UbKaIHWDF4Kmw4mUOyDJqdWLnnvv9wZ/view?usp=sharing?raw=true)
 pada dashboard kita dapat memilih beberapa menu yang dapat digunakan seperti Add Data, Manage Data, Record Data
 - add data
 pada add data kita dapat melakukan pembuatan data mensturasi yang disimpan pada database yang di sediakan
