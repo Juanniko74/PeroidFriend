@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206814589177",
+    "project_id": "peroidfriend",
+    "storage_bucket": "peroidfriend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206814589177:android:22f4717aad2187ea0af228",
+        "android_client_info": {
+          "package_name": "com.example.peroidfriend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArFfoAMWFmGFwMYKc1gPG-pcHnFlGMpl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
